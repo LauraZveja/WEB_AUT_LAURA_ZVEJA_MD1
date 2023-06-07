@@ -31,6 +31,4 @@ describe('selectable grid behavior test', () => {
 
     })
 
-
-
 })
